@@ -16,6 +16,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "purlite"
+rootProject.name = "Bestgame_tel"
 include ':app'
 include ':v2ray'
